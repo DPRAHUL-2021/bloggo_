@@ -24,8 +24,8 @@ Bloggo is a blog application built with Node.js, Express, MongoDB, and EJS. User
 
 3. Create a [.env](http://_vscodecontentref_/0) file in the root directory and add the following environment variables:
     ```env
-    MONGO_URL=mongodb://localhost:27017/bloggo
-    PORT=8000
+    MONGO_URL=YOUR_MONGO_URL
+    PORT=YOUR_PORT_NUMBER
     ```
 
 4. Start the server:
